@@ -85,7 +85,7 @@ in
 
       nativeBuildInputs = with pkgs;
         [
-          wrapGAppsHook
+          wrapGAppsHook4
           gobject-introspection
           meson
           pkg-config
